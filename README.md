@@ -18,7 +18,7 @@ It includes:
   - Team
   - Contact us
  
-## Folder Structure
+## 📂 Folder Structure
 
 Ninestars_Bootstrap/
 │── IMGS/               # Image assets   
