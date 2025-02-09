@@ -17,20 +17,21 @@ It includes:
   - Portfolio
   - Team
   - Contact us
- 
-## 📂 Folder Structure
 
-Ninestars_Bootstrap/
-│── IMGS/               # Image assets   
-|__ CSS/                # Custom Styles
-    - Style.css
-    - Media.css
-│── index.html          # Main HTML file     
-│── README.md           # Project documentation
-
+## 💡 Technologies Used
+- Bootstrap 5 – Frontend framework
+- HTML – Structure and content
+- CSS – Styling and layout
+- Google Fonts & FontAwesome – Icons and typography
 
 ## 🛠️ How to Run  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Dharmishtha-Praxinfo/Ninestars_Bootstrap.git
 
+## 📜 License
+This project is for learning and practice purposes. Feel free to modify and use it in your projects. 🚀
+
+## 💬 Contact & Support
+📧 Email: dharmishtha.praxinfo@gmail.com
+🌐 GitHub: Dharmishtha-Praxinfo
