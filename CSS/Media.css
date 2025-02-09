@@ -1,0 +1,83 @@
+@media (max-width: 992px) {
+    .banner .hero .hero-banner-right {
+        order: 1;
+        margin-top: 15px;
+    }
+
+    .banner .hero .hero-banner-left {
+        order: 2;
+        margin-top: -150px;
+    }
+
+    .hero .hero-banner-left button {
+        margin: 10px;
+    }
+
+     
+    /* About */
+    .about .about-right {
+        margin-top: 60px;
+    }
+
+    .about .about-right h3, p {
+        padding: 22px;
+    }
+
+
+    /* Services */
+    .services .service-imgs .card {
+        padding: 30px 15px;
+    }
+ 
+
+    /* Portfolio */
+    .portfolio .container .tab-content .tab-pane .row .portfolio-sm-unseen {
+        display: none;
+    }
+
+    .portfolio .container .tab-content #app {
+        /* display: flex; */
+        flex-direction: column;
+    }
+
+
+    /* Clients */
+    .clients-container .clients-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    /* Contact */
+    .contact .contact-title .lead {
+        padding: 6px;
+    }
+
+    .contact .contact-container .contact-left .contact-content .icon {
+        padding: 6px;
+    }
+
+    /* .contact .contact-container .contact-left, .contact-right {
+        max-height: 80vh;
+    } */
+
+
+    /* Footer */
+    .footer .footer-container .footer-contact p {
+        margin: 2px 0 -20px 0;
+    }
+
+    .footer .footer-container .footer-links, .footer-follow {
+        margin-top: 30px;
+    }
+
+    .footer .footer-container .footer-follow .social-icons {
+        justify-content: center;
+    }
+
+
+    /* Footer copyright */
+    .footer .copyright-container p {
+        padding: 0;
+    }
+}
