@@ -32,6 +32,9 @@ It includes:
 ## 📜 License
 This project is for learning and practice purposes. Feel free to modify and use it in your projects. 🚀
 
+## Site will be live at:
+👉 https://ninestars-template.netlify.app/
+
 ## 💬 Contact & Support
 📧 Email: dharmishtha.praxinfo@gmail.com
 🌐 GitHub: Dharmishtha-Praxinfo
